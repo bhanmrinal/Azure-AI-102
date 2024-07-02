@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Labfiles", "Labfiles", "{6F93372A-763A-44D9-9449-977E1373980D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "01-Azure-AI-Services", "01-Azure-AI-Services", "{FFD53824-B878-41A9-8BD2-88390BFA3EA3}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "C#", "C#", "{2BE51127-22D6-443D-B0BA-D4F5F026DFB8}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "rest_client", "Labfiles\01-Azure-AI-Services\C#\rest-client\rest_client.csproj", "{CAECF5DC-037A-46A8-98C5-012EC0AB0141}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CAECF5DC-037A-46A8-98C5-012EC0AB0141}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CAECF5DC-037A-46A8-98C5-012EC0AB0141}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CAECF5DC-037A-46A8-98C5-012EC0AB0141}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CAECF5DC-037A-46A8-98C5-012EC0AB0141}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{FFD53824-B878-41A9-8BD2-88390BFA3EA3} = {6F93372A-763A-44D9-9449-977E1373980D}
+		{2BE51127-22D6-443D-B0BA-D4F5F026DFB8} = {FFD53824-B878-41A9-8BD2-88390BFA3EA3}
+		{CAECF5DC-037A-46A8-98C5-012EC0AB0141} = {2BE51127-22D6-443D-B0BA-D4F5F026DFB8}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1944BF86-ECC5-446F-B0E0-E5C35D27D4EB}
+	EndGlobalSection
+EndGlobal
