@@ -1,0 +1,5 @@
+is_global = true
+build_property.RootNamespace = test_detector
+build_property.ProjectDir = C:\Users\Mrinal Bhan\Cerebrum\AI-102-AI-Engineer\Lab-Files\05-Azure-AI-Vision\Labfiles\03-object-detection\C-Sharp\test-detector\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 

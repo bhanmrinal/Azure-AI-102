@@ -1,0 +1,5 @@
+is_global = true
+build_property.RootNamespace = train_classifier
+build_property.ProjectDir = C:\Users\Mrinal Bhan\Cerebrum\AI-102-AI-Engineer\Lab-Files\05-Azure-AI-Vision\Labfiles\07-custom-vision-image-classification\C-Sharp\train-classifier\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
